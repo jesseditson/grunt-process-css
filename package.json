@@ -1,0 +1,26 @@
+{
+  "name": "grunt-process-css",
+  "version": "0.0.1",
+  "description": "A plugin for preprocessing css",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jesseditson/grunt-process-css.git"
+  },
+  "keywords": [
+    "gruntplugin",
+    "css",
+    "grunt",
+    "process"
+  ],
+  "author": "Jesse Ditson <jesse.ditson@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0rc4"
+  }
+}
