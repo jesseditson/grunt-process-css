@@ -1,6 +1,6 @@
 {
   "name": "grunt-process-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for preprocessing css",
   "scripts": {
     "test": "grunt test"
